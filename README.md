@@ -26,7 +26,8 @@
 
 <b>Главная страница</b>
 
-![Screenshot 2022-07-14 at 16-00-39 MishaStore — Ещё один сайт на WordPress](https://user-images.githubusercontent.com/51737588/178994970-61d57743-0d41-4cd5-b94f-51f56ea68cd6.png)
+![Screenshot 2022-07-18 at 10-21-44 MishaStore — Ещё один сайт на WordPress](https://user-images.githubusercontent.com/51737588/179462273-37b7a056-17b1-431b-bd93-7a83d3a8c2d0.png)
+
 
 <b>Вариативный товар</b>
 
